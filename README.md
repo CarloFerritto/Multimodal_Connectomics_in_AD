@@ -1,7 +1,6 @@
 # Multimodal Connectomics in Alzheimer's Disease  (Ferritto et al.)
 
-In this study, we investigated how preprocessing choices shape late life structural connectomics in cognitively healty subjects.<br>
-We held tractography and parcellation constant while varying two upstream factors: the reference template and the tissue segmentation strategy that drives anatomically constrained tractography.
+
   
 ## Table of contents
    * [How to cite?](#how-to-cite)
