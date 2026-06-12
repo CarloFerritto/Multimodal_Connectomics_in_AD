@@ -114,7 +114,7 @@ To generate the structural connectomes use the [tractography_pipeline.sh](src/Ge
 To harmonize your connectomes, first select the calibration set using the [select_calibration_set.py](src/Harmonize_your_connectomes/select_calibration_set.py) script and then harmonize using the [harmonize_connectomes.py](src/Harmonize_your_connectomes/select_calibration_set.py) script.
 ### Analyze your connectome
 To compute the nodal connectome metrics use the [Metrics_extraction.py](src/Analyze_your_connectomes/Metrics_extraction.py) script and the [environment_preprocessing_and_metrics.yaml](src/environment_preprocessing_and_metrics.yml) environment. <br>
-To run classification and regression analysis use the [metrics_extraction.py](src/Analyze_your_connectomes/metrics_extraction.py) and [regression_analysis.py](src/Analyze_your_connectomes/regression_analysis.py) scripts and the [environment_analysis.yaml](src/environment_analysis.yaml) environment.
+To run classification and regression analysis use the [classification_pairwise.py](src/Analyze_your_connectomes/classification_pairwise.py) and [regression_analysis.py](src/Analyze_your_connectomes/regression_analysis.py) scripts and the [environment_analysis.yaml](src/environment_analysis.yaml) environment.
 To reproduce the results and the plots use the [results_classification.py](src/Analyze_your_connectomes/results_classification.py), [results_regression.ipynb](src/Analyze_your_connectomes/results_regression.ipynb)  and [results_overlap_analysis_classification_regression.py](src/Analyze_your_connectomes/results_overlap_analysis_classification_regression.py) scripts.
 
 
